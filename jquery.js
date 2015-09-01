@@ -1,9 +1,15 @@
 $(document).ready(function(){
-  $('.hero-image').slideDown(1000);
-  setTimeout($('.header').css("opacity","1"),1000);
-});
 
-$('.link').click(function() {
-  $('.header').css("padding-bottom","80vh");
-  $(this).addClass("active");
+  $('.links2 > a:nth-child(1)').click(function(){
+    $('#mark').animate({width:'toggle',opacity:'toggle'},500,"swing");
+    $(this).toggleClass("active1")
+  });
+
+  $('.links2 > a:nth-child(2)').click(function(){
+    if ($())
+    $('#mark').hide()
+    $('#work').animate({height:'toggle',opacity:'toggle'},500,"swing");
+    $(this).toggleClass("active2")
+  });
+
 });
