@@ -7,6 +7,13 @@
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script type="text/javascript" src="jquery.js"></script>
 
+  <script type="text/javascript">
+  $(function() {
+    var images = ['tree-bg.jpg','dog_small.jpg','mexico-soccer.jpg','volcano.jpg','giraffe-butt.jpg'];
+    $('body').css({'background-image': 'url(' + images[Math.floor(Math.random() * images.length)] + ')'});
+  });
+  </script>
+
 </head>
 
 <body>
@@ -14,7 +21,7 @@
     <div class="links2">
       <a>mark</a>
       <a>work</a>
-      <a>contact</a>
+      <!-- <a>contact</a> -->
     </div>
     <div style="font-size:20vw;color:white;font-weight:bold">
       mark's portfolio
@@ -25,24 +32,28 @@
     </div>
 
     <div id="work">
+      <div id="work-content">
+      <div id="next-arrow" style="position:absolute; top:50%;right: 30px">NEXT</div>
+      <div id="prev-arrow" style="position:absolute; top:50%;left: 30px">PREV</div>
 
-    </div>
-
-<!--     <div class="circle hide">
-      <div class="circle-2">
-        <div class='header'>
-          mark<br>laughery
+      <div class="project-links">
+        <a class="active-sub" href="">scip</a>
+        <a href="">msurvey</a>
+        <a href="">third</a>
+        <a href="">fourth</a>
+      </div>
+      <div class="project-area" style="display:none">
+        <div class="project-title">
+          Safer Conception Intervention for Partners
         </div>
-        <div style="text-align: center;width:100%">
-          datavis + design thinking + urban mobility
+        <div class="role">
+          Research, Design, and Prototype Development
         </div>
-        <div class="links">
-          <a>about</a>
-          <a>work</a>
-          <a>contact</a>
+        <div class='image-slider' style="">
         </div>
       </div>
-    </div> -->
+      </div>
+    </div>
 
   </div>
 

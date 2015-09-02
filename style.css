@@ -5,10 +5,24 @@
   margin:0;
 }
 
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  /*background-image: url('tree-bg.jpg');*/
+  background-position: center center;
+  background-size: cover;
+  user-select:none;
+}
+
 a {
   margin: 0 10px;
   cursor:pointer;
+  text-decoration: none;
   transition: all .5s ease;
+  color:inherit;
 }
 
 .links2 > a:nth-child(1):hover{
@@ -27,14 +41,15 @@ a {
 .active1{color:#AFEC23;}
 .active2{color:#D5D215;}
 .active3{color:#F6DD19;}
+.active-sub{color:black;}
 
 #mark{
   display:none;
   position:absolute;
-  top:5%;
+  top:40px;
   left:0px;
   width:100%;
-  height:100%;
+  height:calc(100% - 40px);
   background-color:white;
   align-self: center;
   border-top: 2px solid #AFEC23;
@@ -43,21 +58,13 @@ a {
 #work{
   display:none;
   position:absolute;
-  top:5%;
+  top:40px;
   left:0px;
   width:100%;
-  height:100%;
+  height:calc(100% - 40px);
   background-color:white;
   align-self: center;
   border-top: 2px solid #D5D215;
-}
-
-html, body {
-  width: 100%;
-  height: 100%;
-  background-image: url('tree-bg.jpg');
-  background-position: center center;
-  background-size: cover;
 }
 
 .hide{display:none;}
@@ -73,47 +80,6 @@ html, body {
   padding:5%;
 }
 
-.circle{
-  display: flex;
-  position: relative;
-  background-color: white;
-  opacity: 1;
-  border-radius: 100%;
-  height:60vw;
-  width: 60vw;
-  min-width:400px;
-  min-height:400px;
-  max-width: 740px;
-  max-height:740px;
-  align-self: center;
-  padding:.5%;
-  flex-direction:column;
-}
-
-.circle-2{
-  display: flex;
-  position: relative;
-  background-color: transparent;
-  border: 2px dotted rgba(33,33,33,.1);
-  border-radius: 100%;
-  height:100%;
-  width: 100%;
-  align-self: center;
-  padding:10%;
-  flex-direction:column;
-  font-size:12px;
-}
-
-.header{
-  width:100%;
-  text-align: center;
-  font-weight: bold;
-  font-size: 24px;
-  margin-bottom:5%;
-}
-
-.links{font-size: 24px;position:absolute;top:50%;transform:translateY(-50%);width:80%; display:flex; justify-content:space-between}
-
 .links2{
   position:absolute;
   top:10px;
@@ -121,5 +87,32 @@ html, body {
   color:white;
   font-weight:bold;
   text-transform: uppercase;
+}
 
+#work-content{
+  display:none;
+}
+
+.project-links {
+  display:flex;
+  justify-content:space-around;
+  width:100%;
+  margin: 20px 0 30px 0;
+  font-size: 14px;
+  color: rgba(33,33,33,.3);
+  font-weight:bold;
+}
+
+.project-area{
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+}
+
+.project-title{
+  font-size: 24px;
+}
+.role{
+  font-size:12px;
+  opacity:.5;
 }
