@@ -14,7 +14,6 @@ $(document).ready(function(){
     });
     } else {
       $('#work').animate({height:'toggle'},500,"swing");
-      $(this).toggleClass("active2")
     };
     $('#work-content').delay(700).fadeToggle(100);
     $('.project-area').delay(1000).fadeToggle(100);
