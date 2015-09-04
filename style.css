@@ -118,7 +118,14 @@ a {
   opacity:.5;
 }
 .image-slider {
-  height:40%;
-  width:60%;
+  width:90%;
+  margin:0 auto;
+  background-color:lightgrey;
+  text-align: center;
+}
+
+.image-slider div {
+  width:calc(100%-10px);
   background-color:red;
+  margin: 10px;
 }
