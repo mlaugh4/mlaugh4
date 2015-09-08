@@ -8,15 +8,11 @@
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script type="text/javascript" src="jquery.js"></script>
 
-  <script type="text/javascript">
-  $(function() {
-    var images = ['tree-bg.jpg','dog_small.jpg','mexico-soccer.jpg','volcano.jpg','giraffe-butt.jpg'];
-    $('body').css({'background-image': 'url(' + images[Math.floor(Math.random() * images.length)] + ')'});
-  });
-  </script>
-
   <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+  <script type="text/javascript">$(".links2 > a:nth-child(2)").click( function(){ $('.image-slider').resize(); } );</script>
+
 
 </head>
 
@@ -37,8 +33,8 @@
 
     <div id="work">
       <div id="work-content">
-      <div id="next-arrow" style="position:absolute; top:50%;right: 30px">NEXT</div>
-      <div id="prev-arrow" style="position:absolute; top:50%;left: 30px">PREV</div>
+     <!--  <div id="next-arrow" style="position:absolute; top:50%;right: 30px">NEXT</div>
+      <div id="prev-arrow" style="position:absolute; top:50%;left: 30px">PREV</div> -->
 
       <div class="project-links">
         <a class="active-sub" href="">scip</a>
@@ -53,8 +49,8 @@
         <div class="role">
           Research, Design, and Prototype Development
         </div>
-        <div class='image-slider'>
-          <div>1</div>
+        <div class='image-slider' style="display:none">
+          <div>This is the first content item</div>
           <div>2</div>
           <div>3</div>
         </div>

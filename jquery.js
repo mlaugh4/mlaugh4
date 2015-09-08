@@ -28,16 +28,24 @@ $(document).ready(function(){
     };
     $('#work-content').delay(700).fadeToggle(100);
     $('.project-area').delay(1000).fadeToggle(100);
+    $('.image-slider').delay(1500).fadeToggle(100);
+    $('.image-slider').resize();
     $('.links2 > a:nth-child(1)').removeClass("active1");
     $(this).toggleClass("active2");
+    // $('.image-slider')[0].slick.refresh()
   });
 
   $('.image-slider').slick({
     dots: true,
     infinite: true,
     speed: 500,
-    fade: true,
+    // fade: true,
     cssEase: 'linear'
 
   });
 });
+
+  $(function() {
+    var images = ['tree-bg.jpg','dog_small.jpg','mexico-soccer.jpg','volcano.jpg','giraffe-butt.jpg'];
+    $('body').css({'background-image': 'url(' + images[Math.floor(Math.random() * images.length)] + ')'});
+  });
