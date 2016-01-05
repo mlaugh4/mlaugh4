@@ -183,13 +183,8 @@ h1, .close i{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  transition: 0.2s;
 }
 
-.lightbox .top .close i:hover{
-  cursor: pointer;
-  color: #f55;
-}
 
 .lightbox .middle{
   position: relative;

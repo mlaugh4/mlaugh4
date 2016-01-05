@@ -1,4 +1,6 @@
-$("section img").click(function(){
+$(document).ready(function(){
+
+$(".content img").click(function(){
   $(".lightbox").fadeIn(300);
   $(".title").append("<h1>" + $(this).attr("alt") + "</h1>" );
   $('.middle').css("background-image", "url(" + $(this).attr("src") + ")");
@@ -23,3 +25,4 @@ $(document).keyup(function(e) {
   }
 });
 
+});
