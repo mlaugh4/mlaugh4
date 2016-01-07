@@ -1,0 +1,174 @@
+*{
+  font-family: 'Work Sans', sans-serif;
+  font-color: rgba(33,33,33,.7);
+  box-sizing: border-box;
+  margin:0;
+}
+
+hr{
+  margin: 10px 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-image: url('tree-bg.jpg');
+  background-position: center center;
+  background-size: cover;
+  user-select:none;
+}
+
+a {
+  margin: 0 10px;
+  cursor:pointer;
+  text-decoration: none;
+  color:inherit;
+}
+
+.links2{
+  display: flex;
+  width:100%;
+  position:absolute;
+  top:10px;
+  left:0px;
+  color:white;
+  font-weight:bold;
+  text-transform: uppercase;
+  line-height: 24px;
+  opacity:1;
+}
+
+ul {
+  list-style: none;
+  display:flex;
+  padding:0;
+}
+
+li:nth-child(n+2) {
+  display:none;
+  }
+
+li {
+  font-size: 12px;
+}
+
+li:nth-child(1) {
+  font-size: 16px;
+}
+
+/*li:nth-child(2) {
+  transition: all .1s ease;
+}
+
+li:nth-child(3) {
+  transition: all .2s ease;
+}
+
+li:nth-child(4) {
+  transition: all .3s ease;
+}
+
+li:nth-child(5) {
+  transition: all .5s ease;
+}*/
+
+ul:hover > li:nth-child(n+2) {
+  display: flex;
+}
+
+.links2 > a:nth-child(1):hover{
+  color:#AFEC23;
+  transition: all .5s ease;
+}
+.links2 > ul > li:nth-child(1):hover{
+  color:#D5D215;
+  transition: all .5s ease;
+}
+
+.active1{color:#AFEC23;}
+.active2{color:#D5D215;}
+.active3{color:#F6DD19;}
+.active-sub{color:black;}
+
+#mark{
+  display:none;
+  position:absolute;
+  top:40px;
+  left:0px;
+  width:100%;
+  height:calc(100% - 40px);
+  background-color:white;
+  align-self: center;
+  border-top: 1px solid #AFEC23;
+}
+
+#work{
+  display:none;
+  position:absolute;
+  top:40px;
+  left:0px;
+  width:100%;
+  height:calc(100% - 40px);
+  background-color:white;
+  align-self: center;
+  border-top: 1px solid #D5D215;
+  padding:3% 12%;
+  overflow:scroll;
+}
+
+.hide{display:none;}
+
+.container{
+  display: flex;
+  background-image: linear-gradient(to bottom right,#6e7075,#976e42);
+  opacity:.9;
+  background-position: center center;
+  background-size: cover;
+  min-height:100%;
+  justify-content: center;
+  padding:5%;
+}
+
+#work-content{
+  display:none;
+}
+
+.project-area{
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+}
+
+.project-title{
+  font-size: 24px;
+}
+.role{
+  font-size:12px;
+  opacity:.5;
+}
+
+.project-intro {
+  padding: 2% 0;
+  text-align:left;
+}
+
+.image-slider {
+  width:90%;
+  margin:0 auto;
+  background-color:lightgrey;
+  text-align: center;
+}
+
+.image-slider div {
+  width: calc(100% - 10px);
+  background-color:red;
+  margin: 10px;
+}
+
+.project-area img {
+  width:100%;
+  height:auto;
+}

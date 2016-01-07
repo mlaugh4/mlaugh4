@@ -142,7 +142,8 @@ label {
   height: 100%;
   top: 0;
   display: none;
-  background: white;
+  background: rgba(0,0,0,.75);
+  padding:40px;
 }
 
 .lightbox .top{
@@ -170,12 +171,11 @@ h1, .close i{
   font-size: 30px;
 }
 
-.lightbox .top .close{
+.lightbox .close{
   position: absolute;
-  height: 100%;
-  width: 72px;
-  top: 0;
-  right: 0;
+  width: 20px;
+  top: 10px;
+  right: 10px;
 }
 
 .lightbox .top .close i{
@@ -184,7 +184,6 @@ h1, .close i{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 
 .lightbox .middle{
   position: relative;

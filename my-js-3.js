@@ -31,7 +31,6 @@ $(document).ready(function(){
     arrows:false,
   });
 
-
   $('.msurvey-slick').slick({
     arrows: true,
     adaptiveHeight: true,

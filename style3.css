@@ -11,13 +11,32 @@ html, body {
   background-color: rgba(33,33,33,.01);
   user-select:none;
   height:100%;
+  overflow-x: hidden
 }
 b {
   font-weight:bold;
 }
+p {
+  margin-bottom:5px;
+}
 
 img {
   width:100%;
+  position: relative;
+}
+
+.chunk:hover .expand {
+  display:block;
+}
+.expand {
+  display:none;
+  width:15px;
+  height:auto;
+  position: absolute;
+  bottom:70px;
+  right: 15px;
+  z-index: 500;
+  pointer-events: none
 }
 
 h3 {
@@ -125,17 +144,21 @@ table {
 
 .chunk {
   width:100%;
-  /*display:flex;*/
-  padding: 30px 0;
+  padding: 50px 0;
   position: relative;
 }
+
+.final .chunk {
+  padding: 30px 0;
+}
+
 .chunk .txt {
   font-weight:bold;
   position:absolute;
-  left: -110px;
-  top:30px;
+  left: -170px;
+  top:50px;
   direction:rtl;
-  width:100px;
+  width:150px;
   font-size: 10px;
 }
 
@@ -219,6 +242,9 @@ table {
 }
 .msurvey .final {
   background: linear-gradient(to right, #4776E6, #8E54E9)
+}
+.marvin .final {
+ background: linear-gradient(to right, #70e1f5, #ffd194)
 }
 
 .final-header{

@@ -1,4 +1,4 @@
-$(document).ready(function(){
+ $(document).ready(function(){
 
 $(".content img").click(function(){
   $(".lightbox").fadeIn(300);
@@ -7,7 +7,7 @@ $(".content img").click(function(){
   $("html").css("overflow","hidden");
 });
 
-$(".close").click(function(){
+$(".close, .lightbox").click(function(){
   $(".lightbox").fadeOut(300);
   setTimeout(function() {
     $("h1").remove();
