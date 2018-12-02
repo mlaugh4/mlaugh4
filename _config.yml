@@ -1,29 +1,29 @@
 # Site/SEO settings
-email: okay@samesies.io
-baseurl: ""
+email: mwlaugh@gmail.com
+baseurl: "www.mwinslow.com"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Mark Laughery
+title: Portfolio for Mark Laughery
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+  Designer and stuff
+url: http://www.mwinslow.com
+twitter_username: mlaugh4
+default_img: /assets/images/placeholder-24.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/mlaugh4
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/mlaugh4/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/marklaughery/
   - name: github
-    url: https://github.com/samesies
+    url: https://
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -38,9 +38,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Mark Laughery
+    bio: Mark Laughery was born in Seattle and has lived in New York, LA, Austin, Nairobi, and Bangkok. He currently lives in Tokyo.
+    url: http://mwinslow.com
 
 # Build settings
 markdown: kramdown
