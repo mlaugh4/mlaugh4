@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+<section class="mast section-padding--double">
+  <div class="grid">
+    <h2>
+      {% assign words = page.tag | split: ' ' %}
+      {% for word in words %}
+        {{ word | capitalize | replace: 'The', 'the' }}
+      {% endfor %}
+    </h2>
+  </div>
+</section>
+
+<div class="section-padding--none">
+  <div class="grid-large">
+    <hr class="sep"/>
+  </div>
+</div>
+
 <!-- The main content area -->
 <div class="posts">
   <div class="grid-xlarge">
