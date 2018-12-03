@@ -1,15 +1,14 @@
 # Site/SEO settings
 email: mwlaugh@gmail.com
-baseurl: "www.mwinslow.com"
+baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Mark Laughery
-title: Portfolio for Mark Laughery
-description: >
-  Designer and stuff
+title: Mark Laughery
+description: Designer and stuff
 url: http://www.mwinslow.com
 twitter_username: mlaugh4
 default_img: /assets/images/placeholder-24.jpg
