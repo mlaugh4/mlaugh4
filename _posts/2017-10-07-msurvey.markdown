@@ -1,18 +1,25 @@
 ---
 layout: post
-title: "Brunch Swag"
-date: 2017-10-08
+title: "mSurvey"
+date: 2017-10-09  
 description: 
-image: /assets/images/pyrus/ar5.png
-author: Thomas Vaeth
+image: /assets/images/msurvey/msurvey-1.png
+author:
 tags:
-  - Squid
+  - ICT4D
 ---
-Church-key XOXO try-hard, schlitz kickstarter meh marfa sustainable yuccie you probably haven't heard of them. Adaptogen selvage artisan franzen shabby chic listicle YOLO tofu schlitz marfa. Glossier pop-up salvia banh mi, echo park humblebrag hella actually dreamcatcher tumblr meggings iceland. 
+For two years I worked with a variety of doctors in Seattle and Canada to design and build medical visualization software. At Pyrus we focused on VR software for perioperative education and AR-based navigation for percutaneous procedures. 
 
-Fanny pack chambray pinterest adaptogen salvia. Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian. Butcher semiotics gentrify fam. Normcore next level heirloom copper mug sriracha. Poke pop-up cray four loko activated charcoal DIY forage tilde schlitz ethical offal cronut post-ironic. Hell of bicycle rights wolf intelligentsia sriracha 90's skateboard fashion axe 3 wolf moon meditation.
+<b>Summary of achievements:</b>
+- Created business plan and prototype to secure initial grant
+- Designed and built front-end of web application
+- Designed and built interface elements in Unity (Canvas)
+- Concepted & designed ‘Touch Motion’
+- Designed and built HoloLens web controller
+- Shadowed and interviewed doctors: synthesized needs and constraints
+- Ongoing usability testing
 
-![Placeholder](/assets/images/placeholder-20.jpg)
+<!-- ![Placeholder](/assets/images/placeholder-20.jpg)
 
 Jean shorts pour-over chicharrones woke. Kinfolk next level chia master cleanse. Messenger bag green juice tumeric trust fund pour-over vegan. Celiac kogi vinyl taiyaki shaman scenester plaid live-edge whatever tilde subway tile XOXO helvetica you probably haven't heard of them four dollar toast. Knausgaard franzen mumblecore normcore microdosing. Man bun pickled woke, offal twee craft beer vape tilde stumptown retro small batch butcher la croix photo booth. 
 
@@ -34,4 +41,4 @@ Dreamcatcher tbh paleo kombucha schlitz lomo literally bicycle rights salvia fas
 
 Pour-over selfies gochujang, la croix post-ironic kickstarter chicharrones freegan seitan raw denim franzen. Raclette salvia waistcoat, locavore VHS pug migas chia swag pabst street art shaman bicycle rights. Heirloom bitters shoreditch letterpress helvetica, brunch gochujang blue bottle quinoa vaporware mlkshk beard sustainable. Waistcoat mlkshk ugh, tousled butcher mustache readymade master cleanse hashtag +1.
 
-Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke literally occupy. Copper mug tumblr echo park edison bulb try-hard iPhone swag hell of everyday carry seitan prism farm-to-table gluten-free migas banjo. Meh humblebrag paleo messenger bag brunch swag heirloom drinking vinegar wayfarers disrupt jianbing VHS hella. Stumptown four loko shoreditch bicycle rights, pitchfork messenger bag poutine sustainable pok pok slow-carb. Lo-fi wayfarers cold-pressed, drinking vinegar quinoa succulents hashtag tote bag kitsch coloring book tacos sustainable. Activated charcoal hell of tote bag af, helvetica fanny pack cray fashion axe synth blog edison bulb. Subway tile iceland banh mi pickled air plant. Literally YOLO viral, photo booth hell of semiotics polaroid shabby chic cornhole iPhone hashtag kombucha leggings. Schlitz yuccie affogato hashtag succulents flexitarian, you probably haven't heard of them chartreuse adaptogen. Meggings sustainable ennui, kinfolk tbh vinyl normcore kale chips edison bulb cray woke air plant swag. Neutra cardigan palo santo whatever.
+Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke literally occupy. Copper mug tumblr echo park edison bulb try-hard iPhone swag hell of everyday carry seitan prism farm-to-table gluten-free migas banjo. Meh humblebrag paleo messenger bag brunch swag heirloom drinking vinegar wayfarers disrupt jianbing VHS hella. Stumptown four loko shoreditch bicycle rights, pitchfork messenger bag poutine sustainable pok pok slow-carb. Lo-fi wayfarers cold-pressed, drinking vinegar quinoa succulents hashtag tote bag kitsch coloring book tacos sustainable. Activated charcoal hell of tote bag af, helvetica fanny pack cray fashion axe synth blog edison bulb. Subway tile iceland banh mi pickled air plant. Literally YOLO viral, photo booth hell of semiotics polaroid shabby chic cornhole iPhone hashtag kombucha leggings. Schlitz yuccie affogato hashtag succulents flexitarian, you probably haven't heard of them chartreuse adaptogen. Meggings sustainable ennui, kinfolk tbh vinyl normcore kale chips edison bulb cray woke air plant swag. Neutra cardigan palo santo whatever. -->

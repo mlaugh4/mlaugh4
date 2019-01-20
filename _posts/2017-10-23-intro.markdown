@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Introduction"
 date: 2017-10-23
 description: 
@@ -10,7 +10,8 @@ tags:
   - Moon Drinking
   - Kale
 ---
-I'm a product designer currently working on Indeed's employer mobile application. I seek socially meaningful and difficult projects and have worked with teams in Seattle, Austin, New York, Nairobi, Ho Chi Minh City, and Tokyo.
+I'm a product designer currently working on Indeed's employer mobile application. I seek challenging projects with broad social impact and good people. Having worked with teams in Seattle, Austin, New York, Nairobi, Ho Chi Minh City, and Tokyo, I seek a variety 
+
 
 * Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
 * Church-key crucifix messenger bag health goth
