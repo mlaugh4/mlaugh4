@@ -3,15 +3,15 @@
   <channel>
     <title>Mark Laughery</title>
     <description>Designer and stuff</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jan 2019 23:36:12 +0900</pubDate>
-    <lastBuildDate>Sun, 20 Jan 2019 23:36:12 +0900</lastBuildDate>
+    <link>http://www.mwinslow.com</link>
+    <atom:link href="http://www.mwinslow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 Jan 2019 00:12:55 +0900</pubDate>
+    <lastBuildDate>Thu, 24 Jan 2019 00:12:55 +0900</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
-        <title>Introduction</title>
-        <description>&lt;p&gt;I’m a product designer currently working on Indeed’s employer mobile application. I seek challenging projects with broad social impact and good people. Having worked with teams in Seattle, Austin, New York, Nairobi, Ho Chi Minh City, and Tokyo, I seek a variety&lt;/p&gt;
+        <title>Hello</title>
+        <description>&lt;p&gt;I’m a product designer working in Tokyo on Indeed’s employer mobile application. I love diving into challenging projects with broad social impact and good people. Having worked with teams in Seattle, Austin, New York, Nairobi, Ho Chi Minh City, and Tokyo, I seek a variety&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
@@ -47,8 +47,8 @@
 &lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Oct 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2017/10/23/intro/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/23/intro/</guid>
+        <link>http://www.mwinslow.com/2017/10/23/intro/</link>
+        <guid isPermaLink="true">http://www.mwinslow.com/2017/10/23/intro/</guid>
         
         <category>Dummy Text</category>
         
@@ -99,8 +99,8 @@ Pour-over selfies gochujang, la croix post-ironic kickstarter chicharrones freeg
 Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke literally occupy. Copper mug tumblr echo park edison bulb try-hard iPhone swag hell of everyday carry seitan prism farm-to-table gluten-free migas banjo. Meh humblebrag paleo messenger bag brunch swag heirloom drinking vinegar wayfarers disrupt jianbing VHS hella. Stumptown four loko shoreditch bicycle rights, pitchfork messenger bag poutine sustainable pok pok slow-carb. Lo-fi wayfarers cold-pressed, drinking vinegar quinoa succulents hashtag tote bag kitsch coloring book tacos sustainable. Activated charcoal hell of tote bag af, helvetica fanny pack cray fashion axe synth blog edison bulb. Subway tile iceland banh mi pickled air plant. Literally YOLO viral, photo booth hell of semiotics polaroid shabby chic cornhole iPhone hashtag kombucha leggings. Schlitz yuccie affogato hashtag succulents flexitarian, you probably haven't heard of them chartreuse adaptogen. Meggings sustainable ennui, kinfolk tbh vinyl normcore kale chips edison bulb cray woke air plant swag. Neutra cardigan palo santo whatever. --&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2017/10/09/pyrus/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/09/pyrus/</guid>
+        <link>http://www.mwinslow.com/2017/10/09/pyrus/</link>
+        <guid isPermaLink="true">http://www.mwinslow.com/2017/10/09/pyrus/</guid>
         
         <category>VR</category>
         
@@ -109,7 +109,8 @@ Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke liter
     
       <item>
         <title>mSurvey</title>
-        <description>&lt;p&gt;For two years I worked with a variety of doctors in Seattle and Canada to design and build medical visualization software. At Pyrus we focused on VR software for perioperative education and AR-based navigation for percutaneous procedures.&lt;/p&gt;
+        <description>&lt;p&gt;mSurvey is a research technology company out of MIT that connects health researchers and businesses with populations in hard-to-reach areas using SMS. After spending a summer in Nairobi, I continued to provide design and front-end development support during my second year of grad school.
+The techincal expectations were much greater than anticipated, so I spent the first month focused on research and design, while spending evenings studying front-end languages, frameworks, and best practices. In the second half of my internship I was spending most of my time on interface development and battling d3.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Summary of achievements:&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -147,8 +148,8 @@ Pour-over selfies gochujang, la croix post-ironic kickstarter chicharrones freeg
 Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke literally occupy. Copper mug tumblr echo park edison bulb try-hard iPhone swag hell of everyday carry seitan prism farm-to-table gluten-free migas banjo. Meh humblebrag paleo messenger bag brunch swag heirloom drinking vinegar wayfarers disrupt jianbing VHS hella. Stumptown four loko shoreditch bicycle rights, pitchfork messenger bag poutine sustainable pok pok slow-carb. Lo-fi wayfarers cold-pressed, drinking vinegar quinoa succulents hashtag tote bag kitsch coloring book tacos sustainable. Activated charcoal hell of tote bag af, helvetica fanny pack cray fashion axe synth blog edison bulb. Subway tile iceland banh mi pickled air plant. Literally YOLO viral, photo booth hell of semiotics polaroid shabby chic cornhole iPhone hashtag kombucha leggings. Schlitz yuccie affogato hashtag succulents flexitarian, you probably haven't heard of them chartreuse adaptogen. Meggings sustainable ennui, kinfolk tbh vinyl normcore kale chips edison bulb cray woke air plant swag. Neutra cardigan palo santo whatever. --&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2017/10/09/msurvey/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/09/msurvey/</guid>
+        <link>http://www.mwinslow.com/2017/10/09/msurvey/</link>
+        <guid isPermaLink="true">http://www.mwinslow.com/2017/10/09/msurvey/</guid>
         
         <category>ICT4D</category>
         

@@ -8,7 +8,8 @@ author:
 tags:
   - ICT4D
 ---
-For two years I worked with a variety of doctors in Seattle and Canada to design and build medical visualization software. At Pyrus we focused on VR software for perioperative education and AR-based navigation for percutaneous procedures. 
+mSurvey is a research technology company out of MIT that connects health researchers and businesses with populations in hard-to-reach areas using SMS. After spending a summer in Nairobi, I continued to provide design and front-end development support during my second year of grad school.
+The techincal expectations were much greater than anticipated, so I spent the first month focused on research and design, while spending evenings studying front-end languages, frameworks, and best practices. In the second half of my internship I was spending most of my time on interface development and battling d3.
 
 <b>Summary of achievements:</b>
 - Created business plan and prototype to secure initial grant
