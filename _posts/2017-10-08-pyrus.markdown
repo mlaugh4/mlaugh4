@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pyrus"
+title: "Bosc MR"
 date: 2017-10-09  
 description: 
 image: /assets/images/pyrus/pyrus-1.png
