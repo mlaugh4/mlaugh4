@@ -3,7 +3,6 @@
 //---------------------------------------------- 
 .header {
   @extend %letter-spacing;
-  @extend %box-shadow;
 
   position: fixed;
   top: 0;
@@ -21,7 +20,6 @@
   }
 
   background-color: $color-white;
-  border-bottom: $border;
 
   @media (min-width: $mq-small) {
     padding: {
