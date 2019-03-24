@@ -3,9 +3,14 @@
 //---------------------------------------------- 
 .tempHome {
   width: 47.5%;
-  margin: 100px 2.5%;
+  margin-top: 150px;
+  margin-bottom: 150px;
 
   @media (max-width: $mq-small) {
     width: 100%;
   }
+}
+
+li a:hover {
+  border-bottom: 2px solid #000;
 }
