@@ -2,11 +2,8 @@
 layout: post
 title: "mSurvey"
 date: 2017-10-09  
-description: 
+description: "Worked with team in Kenya to build mobile-first health and market research tool"
 image: /assets/images/msurvey/msurvey-1.png
-author:
-tags:
-  - ICT4D
 ---
 mSurvey is a research technology company out of MIT that connects health researchers and businesses with populations in hard-to-reach areas using SMS. After spending a summer in Nairobi, I continued to provide design and front-end development support during my second year of grad school.
 The techincal expectations were much greater than anticipated, so I spent the first month focused on research and design, while spending evenings studying front-end languages, frameworks, and best practices. In the second half of my internship I was spending most of my time on interface development and battling d3.

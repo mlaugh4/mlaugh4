@@ -10,7 +10,6 @@
   &__header {
     @extend %text-center;
 
-    border-bottom: $border;
   }
 
   &__date {
@@ -24,16 +23,16 @@
 
   &__img {
     height: 18em;
-    padding: 1em;
+    // padding: 1em;
 
     @media (min-width: $mq-small) {
       height: 36em;
-      padding: 2em;
+      // padding: 2em;
     }
 
     @media (min-width: $mq-med) {
-      height: calc(100vh - 3em);
-      min-height: 36em;
+      height: calc(100vh - 10em);
+      // min-height: 36em;
     }
 
     & > * {
@@ -144,7 +143,7 @@
   h4,
   h5,
   h6 {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
 
     font-family: $font;
   }

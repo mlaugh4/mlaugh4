@@ -14,3 +14,68 @@
 li a:hover {
   border-bottom: 2px solid #000;
 }
+
+.smll {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: crimson;
+}
+
+.greyDiv {
+  background-color: #f8f8f8;
+  padding: 2em 1em;
+  border-radius: 16px;
+  margin: 1.5rem 0;
+  width: 100vw;
+
+  & h4 {
+    margin-bottom: .8rem !important;
+  }
+
+  & .smll {
+    margin-bottom: 1.5rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: crimson;
+  }
+
+  @media (min-width: $mq-small) {
+    padding: 3em 2em;
+  }
+
+  @media (min-width: $mq-med) {
+    padding: {
+      right: 1em;
+      left: 1em;
+    }
+  }
+
+  @media (min-width: $mq-xlarge) {
+    padding: {
+      top: 4em;
+      bottom: 4em;
+    }
+  }
+}
+
+.greyDiv ul {
+  margin-bottom: 0rem !important;
+}
+
+#markdown h2 {
+  margin-bottom: 2rem !important;
+}
+
+.post ol, .post ul:not(.post__social) {
+  margin-left: 3rem;
+}
+
+thead {
+  background-color: #f8f8f8;
+  text-align: left;
+}
+
+td:first-child {
+  margin-right: 8px;
+}

@@ -64,7 +64,7 @@ h6 {
 // H2 Theme
 //---------------------------------------------- 
 h2:not(.posts__text):not(.related__text) {
-  $fontSize: 2em;
+  $fontSize: 5em;
 
   font-family: $font-post;
   font-size: $fontSize;
@@ -130,6 +130,7 @@ strong {
 
 small {
   font-size: $font-xsmall;
+  font-weight: 600;
 }
 
 strong {
@@ -151,6 +152,8 @@ sub {
 
 mark {
   color: $color-black;
+  background-color: #FFF07C;
+  padding: 0 4px;
 }
 
 //----------------------------------------------

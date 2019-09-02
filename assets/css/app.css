@@ -1295,11 +1295,11 @@ h6 {
 
 h2:not(.posts__text):not(.related__text) {
   font-family: "Lora", serif;
-  font-size: 2em;
+  font-size: 5em;
   line-height: 1.4; }
   @media (min-width: 91em) {
     h2:not(.posts__text):not(.related__text) {
-      font-size: 2.25em; } }
+      font-size: 5.25em; } }
 
 p {
   margin-top: 0;
@@ -1329,7 +1329,8 @@ cite {
     content: "\2014 \0020"; }
 
 small {
-  font-size: 0.8em; }
+  font-size: 0.8em;
+  font-weight: 600; }
 
 strong {
   font-weight: 700; }
@@ -1345,7 +1346,9 @@ sub {
   bottom: -0.75em; }
 
 mark {
-  color: #000; }
+  color: #000;
+  background-color: #FFF07C;
+  padding: 0 4px; }
 
 ::selection {
   color: #fff;
@@ -1362,6 +1365,53 @@ mark {
 
 li a:hover {
   border-bottom: 2px solid #000; }
+
+.smll {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: crimson; }
+
+.greyDiv {
+  background-color: #f8f8f8;
+  padding: 2em 1em;
+  border-radius: 16px;
+  margin: 1.5rem 0;
+  width: 100vw; }
+  .greyDiv h4 {
+    margin-bottom: .8rem !important; }
+  .greyDiv .smll {
+    margin-bottom: 1.5rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: crimson; }
+  @media (min-width: 32em) {
+    .greyDiv {
+      padding: 3em 2em; } }
+  @media (min-width: 54em) {
+    .greyDiv {
+      padding-right: 1em;
+      padding-left: 1em; } }
+  @media (min-width: 91em) {
+    .greyDiv {
+      padding-top: 4em;
+      padding-bottom: 4em; } }
+
+.greyDiv ul {
+  margin-bottom: 0rem !important; }
+
+#markdown h2 {
+  margin-bottom: 2rem !important; }
+
+.post ol, .post ul:not(.post__social) {
+  margin-left: 3rem; }
+
+thead {
+  background-color: #f8f8f8;
+  text-align: left; }
+
+td:first-child {
+  margin-right: 8px; }
 
 img[data-action="zoom"] {
   cursor: pointer;
@@ -1634,23 +1684,18 @@ main {
   .popup__exit:before, .zoom-overlay__exit:before {
     transform: rotate(-45deg); }
 
-.post__header {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
 .post__date {
   display: block;
   margin-top: 0.25em;
   font-size: 0.8em; }
 .post__img {
-  height: 18em;
-  padding: 1em; }
+  height: 18em; }
   @media (min-width: 32em) {
     .post__img {
-      height: 36em;
-      padding: 2em; } }
+      height: 36em; } }
   @media (min-width: 54em) {
     .post__img {
-      height: calc(100vh - 3em);
-      min-height: 36em; } }
+      height: calc(100vh - 10em); } }
   .post__img > * {
     position: relative;
     height: 100%;
@@ -1703,7 +1748,7 @@ main {
   #markdown h4,
   #markdown h5,
   #markdown h6 {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
     font-family: "Roboto", sans-serif; }
   #markdown h1 {
     font-size: 2.25em;

@@ -2,10 +2,7 @@
 layout: post
 title: "Indeed"
 date: 2017-10-09  
-description: 
+description: "Vision for employer mobile product, and new and improved messaging experience."
 image: /assets/images/indeed/indeed_2.png
-author:
-tags:
-  - VR
 ---
 Lead designer on company-wide messaging initiative. Currently bringing v1 to market while running weekly user research and balancing requirements from over 10 teams around the world. Part of team that designed 2-year employer vision that was showcased at annual conference by Indeed's VP of Product (May 2019)
