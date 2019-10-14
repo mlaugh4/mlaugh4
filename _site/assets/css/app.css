@@ -1363,6 +1363,9 @@ mark {
     .tempHome {
       width: 100%; } }
 
+table {
+  margin-bottom: 2rem; }
+
 li a:hover {
   border-bottom: 2px solid #000; }
 
@@ -1410,8 +1413,11 @@ thead {
   background-color: #f8f8f8;
   text-align: left; }
 
-td:first-child {
-  margin-right: 8px; }
+td, th {
+  padding-left: 10px; }
+
+td:first-child, th:first-child {
+  border-right: 5px solid white; }
 
 img[data-action="zoom"] {
   cursor: pointer;

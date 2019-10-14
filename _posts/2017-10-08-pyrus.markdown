@@ -57,14 +57,61 @@ Many potential use cases | Artifact for use in interviews
   <div class="smll">Challenge 2</div>
   <h2> Discovery & learning: Building relationships with hospitals and practitioners to establish consistent feedback loop</h2>
 
-<video width="100%" controls autoplay>
+<video width="100%" controls muted autoplay>
     <source src="/assets/images/pyrus/research.mp4" type="video/mp4">
 </video>
 
 <h5>Solution: The play-pen on wheels</h5>
 Anyone who's developed for VR is familiar with the literal hardware baggage involved. We spent half the week outside of the office (and moved between hospitals on a scooter!) and our caravan was quickly known as he play-pen on wheels. Though this was a joke at the time, I now reconize this as one of the most important metaphors 
-
 </div>
 </div>
 
-... More to come!
+<div class="smll">Challenge 3</div>
+## Control in VR: Identifying ideal input model that's learnable, precise, and natural
+
+The biggest design challenge was figuring out how to users  accomodate ‘natural’ gestures with efficient, precise, and predictable input?
+
+##### Experiment 1: Google Cardboard
+
+![Placeholder](/assets/images/pyrus/exp1_googleCardboard.png)
+
+Benefits | Drawbacks
+------------ | -------------
+Mobile; lightweight & accessible | Way too limited (just gaze and one button)
+ | Laggy with big models
+
+##### Experiment 2: DK2 + Leap Motion
+
+![Placeholder](/assets/images/pyrus/exp2_dk.png)
+
+Benefits | Drawbacks
+------------ | -------------
+Hardware light (no controller to learn) | Tracking: Unpredictable & imprecise
+Basic controls are intuitive | IR silhouette intersection
+
+##### Experiment 3: Xbox controller
+
+![Placeholder](/assets/images/pyrus/exp3_xbox.jpg)
+
+Benefits | Drawbacks
+------------ | -------------
+Predictable & Comforable | Difficult to extract substructures
+Lots of input options | Doctors hated it; felt like gaming.
+
+##### Experiment 4: Perception Neuron
+
+![Placeholder](/assets/images/pyrus/exp4_neuron.png)
+
+Benefits | Drawbacks
+------------ | -------------
+Performant & Precise tracking | Way too much configuration
+ | Clunky, fragile hardware
+
+ ##### Experiment 5: Touch motion
+
+![Placeholder](/assets/images/pyrus/exp4_neuron.png)
+
+Benefits | Drawbacks
+------------ | -------------
+Performant & Precise tracking | Way too much configuration
+ | Clunky, fragile hardware

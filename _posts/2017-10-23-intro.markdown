@@ -7,4 +7,9 @@ image: /assets/images/home-intro.jpg
 author: Mark Laughery
 
 ---
-I'm a product designer in Tokyo working on Indeed's employer mobile application. I love diving into challenging projects with real social impact and good people. Having worked with teams in Seattle, Austin, New York, Nairobi, Ho Chi Minh City, and Tokyo, I seek a variety 
+I'm a product designer and absolutely love it. I'm based in Tokyo and have four years of experience in mobile and virtual/augmented reality. My path into design was by way of analytics, and now carry a particular interest in outcome-driven design. Having spent most of my professional life in smaller product teams, I've had opportunities to hone my skills across all points in the UX spectrum. IDEO's "Talk less, do more" axiom and "build-to-think" methodology are core tenets to my approach, and I find my flow in the interaction design, prototyping, and usability research loop. From my experience, this is where the return on UX investment is highest, as it quickly generates quality knowledge and creative capital.
+
+I currently work at Indeed to help employers quickly find hires. The product has millions of users worldwide and several billion USD in annual revenue. Recent projects include a 2-year vision for the employer mobile app, a complete redesign of the messaging experience, and an internal tool for sharing and monitoring research and statistical insights. I work closely with product managers on product strategy, user researchers on generative and evaluative knowledge gathering, content strategists on voice, and engineering to ensure quality input and output. I view trust as the central fulcrum to a productive team and seek to promote creativity from all corners of the office (and from users!)
+Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, and Tokyo, I recognize the importance of disparate views, cultures, and life experiences as ingredients to a truly user-centered product. Unless I'm making a grilled cheese, I try to avoid self-reference and love learning from the phalanx.
+
+[View resume](https://www.dropbox.com/s/tpe1a1ykalymwhl/2019-resume.pdf?dl=0)
