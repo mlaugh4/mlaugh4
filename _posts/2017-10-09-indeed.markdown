@@ -1,8 +1,17 @@
 ---
 layout: post
 title: "Indeed"
+role: "Senior UX designer"
 date: 2017-10-09  
 description: "Vision for employer mobile product, and new and improved messaging experience."
 image: /assets/images/indeed/indeed_2.png
 ---
-Lead designer on company-wide messaging initiative. Currently bringing v1 to market while running weekly user research and balancing requirements from over 10 teams around the world. Part of team that designed 2-year employer vision that was showcased at annual conference by Indeed's VP of Product (May 2019)
+I currently work at Indeed to help employers quickly find hires. Recent projects include a 2-year vision for the employer mobile app, a complete redesign of the messaging experience, and an internal tool for cross-team knowledge sharing. I work closely with product managers on strategy, user researchers on generative and evaluative research, content strategists on voice, and engineering to ensure quality input and output. I view trust as the central fulcrum to a productive team and seek to promote creativity from all corners of the office (and from users!)
+
+#### Employer vision prototype
+
+<video width="100%" controls muted autoplay>
+    <source src="/assets/images/indeed/artemis.mp4" type="video/mp4">
+</video>
+
+More coming soon!

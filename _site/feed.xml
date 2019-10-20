@@ -5,16 +5,19 @@
     <description>Designer and stuff</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 22:18:21 +0900</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 22:18:21 +0900</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2019 23:36:14 +0900</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 23:36:14 +0900</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
         <title>Hello!</title>
-        <description>&lt;p&gt;I’m a product designer and absolutely love it. I’m based in Tokyo and have four years of experience in mobile and virtual/augmented reality. My path into design was by way of analytics, and now carry a particular interest in outcome-driven design. Having spent most of my professional life in smaller product teams, I’ve had opportunities to hone my skills across all points in the UX spectrum. IDEO’s “Talk less, do more” axiom and “build-to-think” methodology are core tenets to my approach, and I find my flow in the interaction design, prototyping, and usability research loop. From my experience, this is where the return on UX investment is highest, as it quickly generates quality knowledge and creative capital.&lt;/p&gt;
+        <description>&lt;p&gt;I love design.&lt;/p&gt;
 
-&lt;p&gt;I currently work at Indeed to help employers quickly find hires. The product has millions of users worldwide and several billion USD in annual revenue. Recent projects include a 2-year vision for the employer mobile app, a complete redesign of the messaging experience, and an internal tool for sharing and monitoring research and statistical insights. I work closely with product managers on product strategy, user researchers on generative and evaluative knowledge gathering, content strategists on voice, and engineering to ensure quality input and output. I view trust as the central fulcrum to a productive team and seek to promote creativity from all corners of the office (and from users!)
-Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, and Tokyo, I recognize the importance of disparate views, cultures, and life experiences as ingredients to a truly user-centered product. Unless I’m making a grilled cheese, I try to avoid self-reference and love learning from the phalanx.&lt;/p&gt;
+&lt;p&gt;I’m based in Tokyo and have four years of experience shipping mobile and virtual/augmented reality applications. Having spent most of my professional life in smaller product teams, I’ve had opportunities to sharpen my skills across all points in the UX spectrum. That said, my path into design was by way of analytics, and have grown to recognize the importance of outcome-driven design and product strategy. IDEO’s “Talk less, do more” axiom and “build-to-think” methodology are core tenets to my approach, and I find my flow in the interaction design, prototyping, and research loop. I’ve found this is where UX investment pays dividends, as it quickly generates tangible product and user knowledge.&lt;/p&gt;
+
+&lt;p&gt;I currently work at Indeed to help employers quickly find hires. Recent projects include a 2-year vision for the employer mobile app, a complete redesign of the messaging experience, and an internal tool for cross-team knowledge sharing. I work closely with product managers on strategy, user researchers on generative and evaluative research, content strategists on voice, and engineering to ensure quality input and output. I view trust as the central fulcrum to a productive team and seek to promote creativity from all corners of the office (and from users!)&lt;/p&gt;
+
+&lt;p&gt;Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, and Tokyo, I recognize the importance of disparate views, cultures, and life experiences as ingredients to a truly user-centered product. Unless I’m making a grilled cheese, I try to avoid self-reference and love learning from smart folks around me.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/tpe1a1ykalymwhl/2019-resume.pdf?dl=0&quot;&gt;View resume&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -27,7 +30,15 @@ Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, a
     
       <item>
         <title>Indeed</title>
-        <description>&lt;p&gt;Lead designer on company-wide messaging initiative. Currently bringing v1 to market while running weekly user research and balancing requirements from over 10 teams around the world. Part of team that designed 2-year employer vision that was showcased at annual conference by Indeed’s VP of Product (May 2019)&lt;/p&gt;
+        <description>&lt;p&gt;I currently work at Indeed to help employers quickly find hires. Recent projects include a 2-year vision for the employer mobile app, a complete redesign of the messaging experience, and an internal tool for cross-team knowledge sharing. I work closely with product managers on strategy, user researchers on generative and evaluative research, content strategists on voice, and engineering to ensure quality input and output. I view trust as the central fulcrum to a productive team and seek to promote creativity from all corners of the office (and from users!)&lt;/p&gt;
+
+&lt;h4 id=&quot;employer-vision-prototype&quot;&gt;Employer vision prototype&lt;/h4&gt;
+
+&lt;video width=&quot;100%&quot; controls=&quot;&quot; muted=&quot;&quot; autoplay=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/images/indeed/artemis.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;More coming soon!&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2017/10/09/indeed/</link>
@@ -38,26 +49,31 @@ Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, a
     
       <item>
         <title>Pyrus</title>
-        <description>&lt;p&gt;For two years I worked with doctors in Seattle and Canada to improve MRI/CT imaging. We focused on VR software for perioperative education and AR-based navigation for minimally-invasive procedures.&lt;/p&gt;
+        <description>&lt;!-- ##### Product overview --&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/367562203&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I spent two years working with doctors in Seattle and Canada to improve MRI/CT imaging. We focused on VR software for perioperative education and AR-based navigation for minimally-invasive procedures.&lt;/p&gt;
 &lt;h5&gt;Key contributions&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;Created &lt;mark&gt;business plan&lt;/mark&gt; and prototype to secure initial grant&lt;/li&gt;
-  &lt;li&gt;Built web-based model management app in React&lt;/li&gt;
+  &lt;li&gt;Developed model management app in React.js&lt;/li&gt;
   &lt;li&gt;Built &lt;mark&gt;VR interface&lt;/mark&gt; in Unity&lt;/li&gt;
-  &lt;li&gt;Created novel VR input model, ‘Touch Motion,’ that combines Oculus Touch and Leap Motion&lt;/li&gt;
-  &lt;li&gt;Designed interface for &lt;mark&gt;HoloLens mobile controller&lt;/mark&gt;&lt;/li&gt;
-  &lt;li&gt;Lead user research – &lt;mark&gt;contextual inquiry and usability analyses&lt;/mark&gt; with docs&lt;/li&gt;
+  &lt;li&gt;Designed &amp;amp; researched first-of-its-kind VR input model, ‘Touch Motion,’ that combines Oculus Touch and Leap Motion&lt;/li&gt;
+  &lt;li&gt;Created mobile app that used sockets to connect to a HoloLens and function as a input device&lt;/li&gt;
+  &lt;li&gt;Led frequent &lt;mark&gt;contextual inquiry and usability analyses&lt;/mark&gt; with doctors&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;greyDiv&quot;&gt;
 &lt;div class=&quot;grid&quot;&gt;
-  &lt;h4&gt;Key design challenges&lt;/h4&gt;
+  &lt;h5&gt;Key design challenges&lt;/h5&gt;
   &lt;ul&gt;
     &lt;li&gt;Maintaining a user-centered approach in a highly regulated, complex technical environment with a broad constituency&lt;/li&gt;
     &lt;li&gt;Discovery &amp;amp; learning: Building relationships with hospitals and practitioners to establish consistent feedback loop&lt;/li&gt;
     &lt;li&gt;Control in VR: Identifying ideal input model that's learnable, precise, and natural&lt;/li&gt;
-    &lt;li&gt;Model managament: Streamlining the process of importing DICOM images from workstations and presenting them in VR&lt;/li&gt;
-    &lt;li&gt;Designing for inclusion: After a year of R&amp;amp;D in VR, we shifted gears to focus on AR.&lt;/li&gt;
+    &lt;li&gt;Tool selection menu: How do users move between different fuctions in VR?&lt;/li&gt;
+    &lt;li&gt;Model managament: Streamlining the process of importing DICOM images from workstations and getting them into our VR environment&lt;/li&gt;
+    &lt;li&gt;Pivoting into AR&lt;/li&gt;
   &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -67,11 +83,11 @@ Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, a
 &lt;div class=&quot;smll&quot;&gt;Challenge 1&lt;/div&gt;
 &lt;h2 id=&quot;maintaining-a-user-centered-approach-in-a-highly-regulated-complex-technical-environment-with-a-broad-constituency&quot;&gt;Maintaining a user-centered approach in a highly regulated, complex technical environment with a broad constituency&lt;/h2&gt;
 
-&lt;h5 id=&quot;solution-business-and-product-due-diligence&quot;&gt;Solution: Business and product due diligence&lt;/h5&gt;
+&lt;h5 id=&quot;solution-1-up-front-due-diligence&quot;&gt;Solution 1: Up-front due diligence&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/pyrus/product_plan.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Abstracted and simulaneous product and business planning helped identify tertiary audiences, contextual/regulatory constraints, and aligned all members of the team around key milestones and deliverables. In the face of innate startup chaos and enigmatic requirements, perpetual famine, and complex healthcare go-to-market, planning helped clarify milestones, recognize wider market trends, and necessary hoops to jump through on the way.&lt;/p&gt;
+&lt;p&gt;Abstracted product and business planning helped identify tertiary audiences, contextual/regulatory constraints, and aligned all members of the team around key milestones and deliverables. In the face of enigmatic requirements, perpetual famine, and complex healthcare go-to-market, up-front planning helped clarify milestones, recognize wider market trends, and navigate the regulatory labrynth.&lt;/p&gt;
 
 &lt;h5 id=&quot;solution-problem-mapping&quot;&gt;Solution: Problem mapping&lt;/h5&gt;
 
@@ -91,7 +107,7 @@ Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, a
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Diverse constituency&lt;/td&gt;
-      &lt;td&gt;Understanding of players and influences&lt;/td&gt;
+      &lt;td&gt;Understanding of disparate needs and influences&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Many potential use cases&lt;/td&gt;
@@ -102,22 +118,24 @@ Finally, having worked on teams in Seattle, New York, Austin, Nairobi, Saigon, a
 
 &lt;div class=&quot;greyDiv&quot;&gt;
   &lt;div class=&quot;grid&quot;&gt;
-  &lt;div class=&quot;smll&quot;&gt;Challenge 2&lt;/div&gt;
-  &lt;h2&gt; Discovery &amp;amp; learning: Building relationships with hospitals and practitioners to establish consistent feedback loop&lt;/h2&gt;
+    &lt;div class=&quot;smll&quot;&gt;Challenge 2&lt;/div&gt;
+    &lt;h2&gt; Discovery &amp;amp; learning: Building relationships with hospitals and practitioners to establish consistent feedback loop&lt;/h2&gt;
 
-&lt;video width=&quot;100%&quot; controls=&quot;&quot; muted=&quot;&quot; autoplay=&quot;&quot;&gt;
+    &lt;video width=&quot;100%&quot; controls=&quot;&quot; muted=&quot;&quot; autoplay=&quot;&quot;&gt;
     &lt;source src=&quot;/assets/images/pyrus/research.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
+    &lt;/video&gt;
 
-&lt;h5&gt;Solution: The play-pen on wheels&lt;/h5&gt;
-Anyone who's developed for VR is familiar with the literal hardware baggage involved. We spent half the week outside of the office (and moved between hospitals on a scooter!) and our caravan was quickly known as he play-pen on wheels. Though this was a joke at the time, I now reconize this as one of the most important metaphors 
-&lt;/div&gt;
+    &lt;h5&gt;Solution: Rolling play-pen&lt;/h5&gt;
+    &lt;p&gt;
+    Anyone who's experimented with VR is familiar with the rats nest of sensors and cables. We spent half the week outside of the office (with a scooter as our primary mode of transportation!) and our caravan was branded the &quot;rolling play-pen.&quot; Though we laughed at the time, I now realize it was this tactic that guaranteed our success.
+    &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;smll&quot;&gt;Challenge 3&lt;/div&gt;
 &lt;h2 id=&quot;control-in-vr-identifying-ideal-input-model-thats-learnable-precise-and-natural&quot;&gt;Control in VR: Identifying ideal input model that’s learnable, precise, and natural&lt;/h2&gt;
 
-&lt;p&gt;The biggest design challenge was figuring out how to users  accomodate ‘natural’ gestures with efficient, precise, and predictable input?&lt;/p&gt;
+&lt;p&gt;Our &lt;mark&gt;biggest design challenge&lt;/mark&gt; was figuring out how to  accomodate ‘natural’ gestures with efficient, precise, and predictable input. Efficiency is critical for doctors and they had a low threshold for onboarding and recall. This was the most important part of our user experience and where we invested the most in research. The following highlights key steps in our investigation.&lt;/p&gt;
 
 &lt;h5 id=&quot;experiment-1-google-cardboard&quot;&gt;Experiment 1: Google Cardboard&lt;/h5&gt;
 
@@ -211,28 +229,54 @@ Anyone who's developed for VR is familiar with the literal hardware baggage invo
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;##### Experiment 5: Touch motion&lt;/p&gt;
+&lt;h5 id=&quot;experiment-5-touch-motion-️&quot;&gt;Experiment 5: Touch motion ❤️&lt;/h5&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/pyrus/exp4_neuron.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;video width=&quot;100%&quot; controls=&quot;&quot; muted=&quot;&quot; autoplay=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/images/pyrus/exp5_touchmotion.mov&quot; type=&quot;video/mov&quot; /&gt;
+&lt;/video&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Benefits&lt;/th&gt;
-      &lt;th&gt;Drawbacks&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Performant &amp;amp; Precise tracking&lt;/td&gt;
-      &lt;td&gt;Way too much configuration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Clunky, fragile hardware&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;!-- Menus --&gt;
+
+&lt;div class=&quot;greyDiv&quot;&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;div class=&quot;smll&quot;&gt;Challenge 4&lt;/div&gt;
+    &lt;h2&gt;Action menu with touch motion&lt;/h2&gt;
+    &lt;p&gt;Touch motion hit the sweet spot between precision and intuition. Our next challenge was to create an efficient system for switching between modes and tools.&lt;/p&gt;
+    &lt;h5&gt;v1: Pane&lt;/h5&gt;
+    &lt;img src=&quot;/assets/images/pyrus/touchmotion.png&quot; /&gt;
+    &lt;p&gt;Users summoned a menu with the controller and selected actions with their free hand. This was easy to create using Unity Canvas and Leap Motion button elements, but it wasn't scalable and prone to selection error.&lt;/p&gt;
+    
+    &lt;h5&gt;v2: Radial menu&lt;/h5&gt;
+    &lt;img src=&quot;/assets/images/pyrus/design_controller.png&quot; /&gt;
+    &lt;table&gt;
+      &lt;thead&gt;
+          &lt;tr&gt;
+              &lt;th&gt;Challenge&lt;/th&gt;
+              &lt;th&gt;Outcome&lt;/th&gt;
+          &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+          &lt;tr&gt;
+              &lt;td&gt;Hiding functionality behind buttons resulted in recall challenge&lt;/td&gt;
+              &lt;td&gt;Faster and easily memorized menu selection flow&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+              &lt;td&gt;Two-handed menus are slow and require dexterity&lt;/td&gt;
+              &lt;td&gt;Fewer human factors issues&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+              &lt;td&gt;&lt;/td&gt;
+              &lt;td&gt;MORE new user errors&lt;/td&gt;
+          &lt;/tr&gt;
+          
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;smll&quot;&gt;Challenge 5&lt;/div&gt;
+
+&lt;p&gt;Coming soon!&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2017/10/09/pyrus/</link>
@@ -250,6 +294,8 @@ Anyone who's developed for VR is familiar with the literal hardware baggage invo
 &lt;p&gt;I ultimately worked on a product called Consumer Wallet that measured Kenya’s cash-based economy in real time that was covered in Forbes, 2017.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.forbes.com/sites/montymunford/2017/05/03/msurvey-and-safaricom-continue-kenyas-mobile-money-revolution/#555cc62d133d&quot;&gt;Forbes article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ajua/research.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- ![Placeholder](/assets/images/placeholder-20.jpg)
 

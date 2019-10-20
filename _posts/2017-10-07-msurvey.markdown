@@ -3,7 +3,7 @@ layout: post
 title: "Ajua"
 date: 2017-10-09  
 description: "Worked with team in Kenya to build mobile-first health and market research tool"
-image: /assets/images/msurvey/msurvey-1.png
+image: /assets/images/ajua/msurvey-1.png
 ---
 Ajua is a research technology company out of MIT that connects health researchers and businesses with populations in hard-to-reach areas using SMS. After spending a summer in Nairobi, I continued to provide design and front-end development support during my second year of grad school.
 
@@ -12,6 +12,8 @@ The techincal expectations were much greater than anticipated, so I spent the fi
 I ultimately worked on a product called Consumer Wallet that measured Kenya's cash-based economy in real time that was covered in Forbes, 2017. 
 
 [Forbes article](https://www.forbes.com/sites/montymunford/2017/05/03/msurvey-and-safaricom-continue-kenyas-mobile-money-revolution/#555cc62d133d)
+
+![Placeholder](/assets/images/ajua/research.jpg)
 
 
 <!-- ![Placeholder](/assets/images/placeholder-20.jpg)

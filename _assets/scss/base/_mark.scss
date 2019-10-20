@@ -11,6 +11,10 @@
   }
 }
 
+video {
+  margin-bottom: 2rem;
+}
+
 table {
   margin-bottom: 2rem;
 }
@@ -30,7 +34,7 @@ li a:hover {
   background-color: #f8f8f8;
   padding: 2em 1em;
   border-radius: 16px;
-  margin: 1.5rem 0;
+  margin: 3rem 0;
   width: 100vw;
 
   & h4 {
@@ -68,7 +72,11 @@ li a:hover {
 }
 
 #markdown h2 {
-  margin-bottom: 2rem !important;
+  margin-bottom: 3rem !important;
+}
+
+#markdown h5 {
+  margin-bottom: 1.5rem !important;
 }
 
 .post ol, .post ul:not(.post__social) {

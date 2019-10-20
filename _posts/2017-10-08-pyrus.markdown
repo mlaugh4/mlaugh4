@@ -7,24 +7,31 @@ description: "Visualizing diagnostic images (MRI and CT) in VR and MR to improve
 image: /assets/images/pyrus/pyrus-1.png
 author:
 ---
-For two years I worked with doctors in Seattle and Canada to improve MRI/CT imaging. We focused on VR software for perioperative education and AR-based navigation for minimally-invasive procedures.
+
+<!-- ##### Product overview -->
+
+<iframe src="https://player.vimeo.com/video/367562203" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+I spent two years working with doctors in Seattle and Canada to improve MRI/CT imaging. We focused on VR software for perioperative education and AR-based navigation for minimally-invasive procedures.
 <h5>Key contributions</h5>
 * Created <mark>business plan</mark> and prototype to secure initial grant
-* Built web-based model management app in React
+* Developed model management app in React.js
 * Built <mark>VR interface</mark> in Unity
-* Created novel VR input model, ‘Touch Motion,’ that combines Oculus Touch and Leap Motion
-* Designed interface for <mark>HoloLens mobile controller</mark>
-* Lead user research -- <mark>contextual inquiry and usability analyses</mark> with docs
+* Designed & researched first-of-its-kind VR input model, ‘Touch Motion,’ that combines Oculus Touch and Leap Motion
+* Created mobile app that used sockets to connect to a HoloLens and function as a input device
+* Led frequent <mark>contextual inquiry and usability analyses</mark> with doctors
 
 <div class="greyDiv">
 <div class="grid">
-  <h4>Key design challenges</h4>
+  <h5>Key design challenges</h5>
   <ul>
     <li>Maintaining a user-centered approach in a highly regulated, complex technical environment with a broad constituency</li>
     <li>Discovery & learning: Building relationships with hospitals and practitioners to establish consistent feedback loop</li>
     <li>Control in VR: Identifying ideal input model that's learnable, precise, and natural</li>
-    <li>Model managament: Streamlining the process of importing DICOM images from workstations and presenting them in VR</li>
-    <li>Designing for inclusion: After a year of R&D in VR, we shifted gears to focus on AR.</li>
+    <li>Tool selection menu: How do users move between different fuctions in VR?</li>
+    <li>Model managament: Streamlining the process of importing DICOM images from workstations and getting them into our VR environment</li>
+    <li>Pivoting into AR</li>
   </ul>
   </div>
 </div>
@@ -35,11 +42,11 @@ For two years I worked with doctors in Seattle and Canada to improve MRI/CT imag
 ## Maintaining a user-centered approach in a highly regulated, complex technical environment with a broad constituency
 
 
-##### Solution: Business and product due diligence
+##### Solution 1: Up-front due diligence
 
 ![Placeholder](/assets/images/pyrus/product_plan.png)
 
-Abstracted and simulaneous product and business planning helped identify tertiary audiences, contextual/regulatory constraints, and aligned all members of the team around key milestones and deliverables. In the face of innate startup chaos and enigmatic requirements, perpetual famine, and complex healthcare go-to-market, planning helped clarify milestones, recognize wider market trends, and necessary hoops to jump through on the way.
+Abstracted product and business planning helped identify tertiary audiences, contextual/regulatory constraints, and aligned all members of the team around key milestones and deliverables. In the face of enigmatic requirements, perpetual famine, and complex healthcare go-to-market, up-front planning helped clarify milestones, recognize wider market trends, and navigate the regulatory labrynth.
 
 ##### Solution: Problem mapping
 
@@ -48,28 +55,30 @@ Abstracted and simulaneous product and business planning helped identify tertiar
 Challenge | Outcome
 ------------ | -------------
 Complex service environment | Clarity and scope of problem
-Diverse constituency | Understanding of players and influences
+Diverse constituency | Understanding of disparate needs and influences
 Many potential use cases | Artifact for use in interviews
 
 
 <div class="greyDiv">
   <div class="grid">
-  <div class="smll">Challenge 2</div>
-  <h2> Discovery & learning: Building relationships with hospitals and practitioners to establish consistent feedback loop</h2>
+    <div class="smll">Challenge 2</div>
+    <h2> Discovery & learning: Building relationships with hospitals and practitioners to establish consistent feedback loop</h2>
 
-<video width="100%" controls muted autoplay>
+    <video width="100%" controls muted autoplay>
     <source src="/assets/images/pyrus/research.mp4" type="video/mp4">
-</video>
+    </video>
 
-<h5>Solution: The play-pen on wheels</h5>
-Anyone who's developed for VR is familiar with the literal hardware baggage involved. We spent half the week outside of the office (and moved between hospitals on a scooter!) and our caravan was quickly known as he play-pen on wheels. Though this was a joke at the time, I now reconize this as one of the most important metaphors 
-</div>
+    <h5>Solution: Rolling play-pen</h5>
+    <p>
+    Anyone who's experimented with VR is familiar with the rats nest of sensors and cables. We spent half the week outside of the office (with a scooter as our primary mode of transportation!) and our caravan was branded the "rolling play-pen." Though we laughed at the time, I now realize it was this tactic that guaranteed our success.
+    </p>
+  </div>
 </div>
 
 <div class="smll">Challenge 3</div>
 ## Control in VR: Identifying ideal input model that's learnable, precise, and natural
 
-The biggest design challenge was figuring out how to users  accomodate ‘natural’ gestures with efficient, precise, and predictable input?
+Our <mark>biggest design challenge</mark> was figuring out how to  accomodate ‘natural’ gestures with efficient, precise, and predictable input. Efficiency is critical for doctors and they had a low threshold for onboarding and recall. This was the most important part of our user experience and where we invested the most in research. The following highlights key steps in our investigation.
 
 ##### Experiment 1: Google Cardboard
 
@@ -107,11 +116,53 @@ Benefits | Drawbacks
 Performant & Precise tracking | Way too much configuration
  | Clunky, fragile hardware
 
- ##### Experiment 5: Touch motion
+##### Experiment 5: Touch motion ❤️
 
-![Placeholder](/assets/images/pyrus/exp4_neuron.png)
+<video width="100%" controls muted autoplay>
+    <source src="/assets/images/pyrus/exp5_touchmotion.mov" type="video/mov">
+</video>
 
-Benefits | Drawbacks
------------- | -------------
-Performant & Precise tracking | Way too much configuration
- | Clunky, fragile hardware
+
+<!-- Menus -->
+
+
+<div class="greyDiv">
+  <div class="grid">
+    <div class="smll">Challenge 4</div>
+    <h2>Action menu with touch motion</h2>
+    <p>Touch motion hit the sweet spot between precision and intuition. Our next challenge was to create an efficient system for switching between modes and tools.</p>
+    <h5>v1: Pane</h5>
+    <img src="/assets/images/pyrus/touchmotion.png">
+    <p>Users summoned a menu with the controller and selected actions with their free hand. This was easy to create using Unity Canvas and Leap Motion button elements, but it wasn't scalable and prone to selection error.</p>
+    
+    <h5>v2: Radial menu</h5>
+    <img src="/assets/images/pyrus/design_controller.png">
+    <table>
+      <thead>
+          <tr>
+              <th>Challenge</th>
+              <th>Outcome</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>Hiding functionality behind buttons resulted in recall challenge</td>
+              <td>Faster and easily memorized menu selection flow</td>
+          </tr>
+          <tr>
+              <td>Two-handed menus are slow and require dexterity</td>
+              <td>Fewer human factors issues</td>
+          </tr>
+          <tr>
+              <td></td>
+              <td>MORE new user errors</td>
+          </tr>
+          
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="smll">Challenge 5</div>
+
+Coming soon!

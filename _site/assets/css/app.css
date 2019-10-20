@@ -1363,6 +1363,9 @@ mark {
     .tempHome {
       width: 100%; } }
 
+video {
+  margin-bottom: 2rem; }
+
 table {
   margin-bottom: 2rem; }
 
@@ -1379,7 +1382,7 @@ li a:hover {
   background-color: #f8f8f8;
   padding: 2em 1em;
   border-radius: 16px;
-  margin: 1.5rem 0;
+  margin: 3rem 0;
   width: 100vw; }
   .greyDiv h4 {
     margin-bottom: .8rem !important; }
@@ -1404,7 +1407,10 @@ li a:hover {
   margin-bottom: 0rem !important; }
 
 #markdown h2 {
-  margin-bottom: 2rem !important; }
+  margin-bottom: 3rem !important; }
+
+#markdown h5 {
+  margin-bottom: 1.5rem !important; }
 
 .post ol, .post ul:not(.post__social) {
   margin-left: 3rem; }
@@ -1776,7 +1782,7 @@ main {
   #style-guide #markdown h6 + hr {
     margin-top: 1rem; }
   #markdown p {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     font-size: 1.1em; }
     @media (min-width: 32em) {
       #markdown p {
