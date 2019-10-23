@@ -37,6 +37,10 @@ li a:hover {
   margin: 3rem 0;
   width: 100vw;
 
+  & img {
+    margin-bottom: 1rem;
+  }
+
   & h4 {
     margin-bottom: .8rem !important;
   }
@@ -67,9 +71,9 @@ li a:hover {
   }
 }
 
-.greyDiv ul {
-  margin-bottom: 0rem !important;
-}
+// .greyDiv ul {
+//   margin-bottom: 0rem !important;
+// }
 
 #markdown h2 {
   margin-bottom: 3rem !important;

@@ -36,7 +36,6 @@ I spent two years working with doctors in Seattle and Canada to improve MRI/CT i
   </div>
 </div>
 
-<!-- ![Placeholder](/assets/images/pyrus/AR.png#full) -->
 
 <div class="smll">Challenge 1</div>
 ## Maintaining a user-centered approach in a highly regulated, complex technical environment with a broad constituency

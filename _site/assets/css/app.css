@@ -1329,15 +1329,15 @@ cite {
     content: "\2014 \0020"; }
 
 small {
-  font-size: 0.8em;
-  font-weight: 600; }
+  font-size: 0.7em;
+  font-weight: 200; }
 
 strong {
   font-weight: 700; }
 
 sup,
 sub {
-  font-size: 0.7em; }
+  font-size: 0.6em; }
 
 sup {
   top: -0.75em; }
@@ -1384,6 +1384,8 @@ li a:hover {
   border-radius: 16px;
   margin: 3rem 0;
   width: 100vw; }
+  .greyDiv img {
+    margin-bottom: 1rem; }
   .greyDiv h4 {
     margin-bottom: .8rem !important; }
   .greyDiv .smll {
@@ -1402,9 +1404,6 @@ li a:hover {
     .greyDiv {
       padding-top: 4em;
       padding-bottom: 4em; } }
-
-.greyDiv ul {
-  margin-bottom: 0rem !important; }
 
 #markdown h2 {
   margin-bottom: 3rem !important; }
@@ -1782,13 +1781,13 @@ main {
   #style-guide #markdown h6 + hr {
     margin-top: 1rem; }
   #markdown p {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     font-size: 1.1em; }
     @media (min-width: 32em) {
       #markdown p {
         font-size: 1.25em; } }
     #markdown p img {
-      margin-bottom: 0; }
+      margin-bottom: 1rem; }
   #markdown blockquote p {
     margin-bottom: 0; }
   #markdown a {

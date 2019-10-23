@@ -3,15 +3,149 @@ layout: post
 title: "Indeed"
 role: "Senior UX designer"
 date: 2017-10-09  
-description: "Vision for employer mobile product, and new and improved messaging experience."
-image: /assets/images/indeed/indeed_2.png
+description: "A new messaging experience for employers"
+image: /assets/images/indeed/indeed_3.png
 ---
-I currently work at Indeed to help employers quickly find hires. Recent projects include a 2-year vision for the employer mobile app, a complete redesign of the messaging experience, and an internal tool for cross-team knowledge sharing. I work closely with product managers on strategy, user researchers on generative and evaluative research, content strategists on voice, and engineering to ensure quality input and output. I view trust as the central fulcrum to a productive team and seek to promote creativity from all corners of the office (and from users!)
 
-#### Employer vision prototype
+My 2019 was spent in Tokyo leading the design of Indeed's new employer messaging experience. It's a big swing initiative to shift communication away from email and toward real-time chat. Our v1 recently shipped and is trending positively across all KPIs in A/B testing. 🤞
 
-<video width="100%" controls muted autoplay>
-    <source src="/assets/images/indeed/artemis.mp4" type="video/mp4">
-</video>
+###### Agenda
+This case study is an abstract overview of the genesis, early development, optimization, and vision for employer messaging. I do my best to supplement the story with relevant visuals and summarize my involvement at each step.
 
-More coming soon!
+----------
+
+### Overview
+
+##### Business context
+
+* Black hole (unresponsive employers) has been the biggest job seeker complaint since Indeed's inception. Only 9.5% of job applications get a response
+* Lack of visibility into hiring outcomes: Employers lacked a centralized view of all their conversations, pushing 70% of them out of the app and into email
+* Employers using different products have a disjointed user experience
+* Templates are a critical part of their messaging workflow, but we lack proper management tools
+
+##### Design challenges
+
+* Make messaging feel lighter and faster by challenging email as the status quo for hiring communication. 
+* Balance requirements from over eight teams around the world
+* Provide sufficient marginal value over email to drive adoption of Indeed messaging
+* Successfully transition away from email without alienating users
+
+##### Project details
+
+* **Role:** UX lead
+* **Team:** 2 designers, 1 design technologist, 1 user researcher. Extended team includes 7 developers, 1 PM, and 2 QA. 
+* **Output:** End-to-end messaging application on mobile and desktop. 
+* **Highlights:** Working with a brilliant product manager and team of engineers. Presenting to SLT & 100+ designers across the org. Created demo that SVP of Product presented at Indeed Interactive. Shipped major redesign of core employer experience that's used my tens of millions of people worldwide.
+
+##### Before & after
+![Placeholder](/assets/images/indeed/messaging/beforeAfter.png)
+
+
+
+<div class="greyDiv">
+  <div class="grid">
+    <div class="smll">Phase 1</div>
+    <h2> Foundational user research & synthesis</h2>
+    <p>
+    Following a 40+ person sprint, we had a full team of engineers in the wings and very little user research to inform our product roadmap. As a result, a researcher and I launched a campaign to collect qualitative knowledge every week. Our research included:
+    </p>
+    <ul>
+        <li>Synthesis of past research and experimentation in employer communication</li>
+        <li>Digging into interaction logs to get baseline understanding of user behavior (e.g. conversation/message length, platform, response times)</li>
+        <li>On-site interviews with users</li>
+        <li>Show-me sessions with existing messaging</li>
+        <li>In-app surveys</li>
+        <li>Rapid prototyping and moderated usability testing</li>
+    </ul>
+    <h5>Key flows</h5>
+    <p>A key output from this phase were three abstracted flows that aligned job seeker and employer vision</p>
+    <img src="/assets/images/indeed/messaging/keyflows.png">
+    <p>
+        <strong>My contribution:</strong> Collected and summarized past research. Battled with SQL to get behavioral insight. Attended on-sites and observed show-me sessions. Designed in-app survey.
+    </p>
+    <p>
+        Maintained high-contact between cross-team stakeholders, design technologist, researcher, PM, and other designers to report out findings and share designs.
+    </p>
+    <p>
+        Partnered with product management to shape OKRs and MVP specification based on research, technical constraints, and company objectives.
+    </p>
+  </div>
+</div>
+
+
+
+<div class="smll">Phase 2</div>
+## Weekly design, prototyping & usability research sprints
+
+A typical UX has a healthy buffer between design, prototype development, and research. Given our aggressive timeline (we were simultaneously researching and building features for the first couple months 😬), our transition from foundational user research to prototyping and evaluation was abrupt. We were forced to bundle design and prototyping into one exercise.
+
+I partnered with a design technologist and researcher to generate a high fidelity prototype that was used for stakeholder communication and weekly sessions at the usability lab. Within 7-day sprints, we summarized research findings, adjusted designs, iterated  with product stakeholders, communicated changes to developers, revised the prototype, and created research plan.
+
+**My contribution:** Grand liason. Observed all research sessions and iterated mobile and desktop designs based on observations and internal product feedback. Produced extensive behavioral specifications to accompany prototype that shared referenced with developer team.
+
+![Placeholder](/assets/images/indeed/messaging/uxLab.jpg)
+<small>The battleground, aka UX lab</small>
+
+
+
+<div class="greyDiv">
+  <div class="grid">
+    <div class="smll">Phase 3</div>
+    <h2>Ongoing optimization & experimentation</h2>
+    <p>
+        Following launch and stabilization, I spent most lunch hours sitting in a conference room with my PM watching session recordings (actual users in prod), and categorizing monthly survey feedback. We collected observed themes and brainstormed solutions with the team. Winning concepts were  specified and foled into the prtotype, put into usertesting.com studies, and we generated quick improvements that had measurable impact on CS complaints.
+    </p>
+    <h5>Hotjar recording + categorized feedback from our monthly pulse survey</h5>
+    <img src="/assets/images/indeed/messaging/postLaunchResearch.png">
+    <p>
+        <strong>My contribution:</strong> Categorized thousands of lines of survey results. Led a brainstorming session with wider team. Worked with user researcher to run usertesting studies. Created improvement tickets.
+    </p>
+  </div>
+</div>
+
+
+
+<div class="smll">Phase 4</div>
+## Post-MVP: Shaping roadmap
+
+Following the initial few months of mayhem, we fell back into our regular cadence of research. The foundation was set, we had bandwidth, and were far enough ahead of our engineering roadmap to lift our heads and think about our vision. A few concepts we researched:
+
+##### Voice introductions
+![Voice intros](/assets/images/indeed/messaging/audioIntros.png)
+
+##### Framework for 'enriched messaging'
+Hybrid graphical and text conversation interface. Shared with other teams that within Indeed that intend to create plugins for messaging.
+![Enriched messaging](/assets/images/indeed/messaging/modules.png)
+
+##### Template management & functional placeholders
+![template management](/assets/images/indeed/messaging/templateMgmt.png)
+
+-------
+
+We eventually got our ducks in a row, traveled to Austin, Seattle, and San Francisco, and codified our vision. 
+
+##### Prioritization grid
+![template management](/assets/images/indeed/messaging/impactGrid.jpg)
+
+##### Timeline
+![template management](/assets/images/indeed/messaging/timeline.jpg)
+
+##### Bonus: Company-wide presentation
+![template management](/assets/images/indeed/messaging/pres.png)
+<small>Presenting to SLT and wider UX org (100+ designers) on the messaging vision and progress.</small>
+
+
+
+<div class="greyDiv">
+  <div class="grid">
+    <h2>SVP of Product presents vision in keynote at Indeed Interactive</h2>
+    <p>
+        Indeed's SVP of Product asked us to produce a demo for his keynote at Indeed Interactive conference in 2019. Here's the result:
+    </p>
+    <iframe src="https://player.vimeo.com/video/368334454" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <p>
+        In the end we worked with a design technologist to build this whole flow and they successfully demoed it live!
+    </p>
+
+  </div>
+</div>
