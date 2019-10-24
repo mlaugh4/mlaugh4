@@ -118,7 +118,7 @@ Performant & Precise tracking | Way too much configuration
 ##### Experiment 5: Touch motion ❤️
 
 <video width="100%" controls muted autoplay>
-    <source src="/assets/images/pyrus/exp5_touchmotion.mov" type="video/mov">
+    <source src="/assets/images/pyrus/exp5_touchmotion.mp4" type="video/mp4">
 </video>
 
 
