@@ -5,8 +5,8 @@
     <description>Designer and stuff</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Oct 2019 03:01:02 +0900</pubDate>
-    <lastBuildDate>Thu, 24 Oct 2019 03:01:02 +0900</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 11:23:13 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 11:23:13 +0900</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -30,31 +30,32 @@
     
       <item>
         <title>Indeed</title>
-        <description>&lt;p&gt;My 2019 was spent in Tokyo leading the design of Indeed’s new employer messaging experience. It’s a big swing initiative to shift communication away from email and toward real-time chat. Our v1 recently shipped and is trending positively across all KPIs in A/B testing. 🤞&lt;/p&gt;
+        <description>&lt;p&gt;My 2019 was spent in Tokyo leading the design of Indeed’s new employer messaging experience. It’s a big swing initiative to shift communication away from email and toward real-time chat as part of a wider effort to close the “black hole.” v1 shipped over the summer and is trending positively across all KPIs. 🤞&lt;/p&gt;
 
-&lt;h6 id=&quot;agenda&quot;&gt;Agenda&lt;/h6&gt;
-&lt;p&gt;This case study is an abstract overview of the genesis, early development, optimization, and vision for employer messaging. I do my best to supplement the story with relevant visuals and summarize my involvement at each step.&lt;/p&gt;
+&lt;h5 id=&quot;agenda&quot;&gt;Agenda&lt;/h5&gt;
+&lt;p&gt;The following is a high-level overview of the genesis, early development, optimization, and vision for employer messaging. I do my best to supplement the story with relevant visuals and summarize my involvement at each step.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/inboxOverview.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;business-context&quot;&gt;Business context&lt;/h5&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Black hole (unresponsive employers) has been the biggest job seeker complaint since Indeed’s inception. Only 9.5% of job applications get a response&lt;/li&gt;
-  &lt;li&gt;Lack of visibility into hiring outcomes: Employers lacked a centralized view of all their conversations, pushing 70% of them out of the app and into email&lt;/li&gt;
-  &lt;li&gt;Employers using different products have a disjointed user experience&lt;/li&gt;
-  &lt;li&gt;Templates are a critical part of their messaging workflow, but we lack proper management tools&lt;/li&gt;
+  &lt;li&gt;Black hole (unresponsive employers) has been the biggest job seeker complaint since Indeed’s inception. Only 9.5% of job applications get a response.&lt;/li&gt;
+  &lt;li&gt;We have limited visibility into hiring outcomes. We failed to provide basic functionality and a centralized view of all conversations, which pushed 70% of employer communication out of the platform.&lt;/li&gt;
+  &lt;li&gt;Employers using different Indeed products have a disjointed user experience.&lt;/li&gt;
+  &lt;li&gt;Templates are a critical part of their messaging workflow and we lacked proper management tools.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;design-challenges&quot;&gt;Design challenges&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Make messaging feel lighter and faster by challenging email as the status quo for hiring communication.&lt;/li&gt;
-  &lt;li&gt;Balance requirements from over eight teams around the world&lt;/li&gt;
-  &lt;li&gt;Provide sufficient marginal value over email to drive adoption of Indeed messaging&lt;/li&gt;
-  &lt;li&gt;Successfully transition away from email without alienating users&lt;/li&gt;
+  &lt;li&gt;Balance requirements from over eight teams around the world.&lt;/li&gt;
+  &lt;li&gt;Provide sufficient marginal value over email to bring messaging activity back into the platform.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;project-details&quot;&gt;Project details&lt;/h5&gt;
@@ -62,23 +63,23 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; UX lead&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; 2 designers, 1 design technologist, 1 user researcher. Extended team includes 7 developers, 1 PM, and 2 QA. &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; End-to-end messaging application on mobile and desktop. &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Highlights:&lt;/strong&gt; Working with a brilliant product manager and team of engineers. Presenting to SLT &amp;amp; 100+ designers across the org. Created demo that SVP of Product presented at Indeed Interactive. Shipped major redesign of core employer experience that’s used my tens of millions of people worldwide.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Output:&lt;/strong&gt; Messaging application on mobile and desktop. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Highlights:&lt;/strong&gt; Working with a brilliant product manager and engineers. Presenting to SLT &amp;amp; 100+ designers across the org. Creating demo that SVP of Product presented at major HR conference. Shipped sweeping redesign of core employer experience that positively impacts tens of millions of people worldwide.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;before--after&quot;&gt;Before &amp;amp; after&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/beforeAfter.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/beforeAfter.png&quot; alt=&quot;Before and after&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;greyDiv&quot;&gt;
   &lt;div class=&quot;grid&quot;&gt;
     &lt;div class=&quot;smll&quot;&gt;Phase 1&lt;/div&gt;
     &lt;h2&gt; Foundational user research &amp;amp; synthesis&lt;/h2&gt;
     &lt;p&gt;
-    Following a 40+ person sprint, we had a full team of engineers in the wings and very little user research to inform our product roadmap. As a result, a researcher and I launched a campaign to collect qualitative knowledge every week. Our research included:
+    Following a 40+ person sprint, we had a full team of engineers in the wings and very little user research to inform our initial product roadmap. As a result, a researcher and I launched a campaign to collect qualitative knowledge every week for two months. Our research included:
     &lt;/p&gt;
     &lt;ul&gt;
         &lt;li&gt;Synthesis of past research and experimentation in employer communication&lt;/li&gt;
-        &lt;li&gt;Digging into interaction logs to get baseline understanding of user behavior (e.g. conversation/message length, platform, response times)&lt;/li&gt;
+        &lt;li&gt;Digging into interaction logs to get baseline understanding of user behavior (e.g. conversation/message length, message contents, response times)&lt;/li&gt;
         &lt;li&gt;On-site interviews with users&lt;/li&gt;
         &lt;li&gt;Show-me sessions with existing messaging&lt;/li&gt;
         &lt;li&gt;In-app surveys&lt;/li&gt;
@@ -116,12 +117,12 @@
     &lt;div class=&quot;smll&quot;&gt;Phase 3&lt;/div&gt;
     &lt;h2&gt;Ongoing optimization &amp;amp; experimentation&lt;/h2&gt;
     &lt;p&gt;
-        Following launch and stabilization, I spent most lunch hours sitting in a conference room with my PM watching session recordings (actual users in prod), and categorizing monthly survey feedback. We collected observed themes and brainstormed solutions with the team. Winning concepts were  specified and foled into the prtotype, put into usertesting.com studies, and we generated quick improvements that had measurable impact on CS complaints.
+        Following launch and stabilization, I spent lunches sitting in a room with my PM watching session recordings (actual users in prod), and categorizing feedback from our monthly pulse survey. We took observed issues back to the team to find solutions. After quick brainstorming sessions, winning concepts were pulled into the research prototype and gut-checked on usertesting.com. This improvement process was powerful in ensuring seamless UX and effectively reduced CS tickets.
     &lt;/p&gt;
     &lt;h5&gt;Hotjar recording + categorized feedback from our monthly pulse survey&lt;/h5&gt;
     &lt;img src=&quot;/assets/images/indeed/messaging/postLaunchResearch.png&quot; /&gt;
     &lt;p&gt;
-        &lt;strong&gt;My contribution:&lt;/strong&gt; Categorized thousands of lines of survey results. Led a brainstorming session with wider team. Worked with user researcher to run usertesting studies. Created improvement tickets.
+        &lt;strong&gt;My contribution:&lt;/strong&gt; Categorized thousands of lines of survey results. Led a brainstorming session with wider team. Worked with design technologist and user researcher to run usertesting studies. Created improvement tickets for developers.
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -129,13 +130,14 @@
 &lt;div class=&quot;smll&quot;&gt;Phase 4&lt;/div&gt;
 &lt;h2 id=&quot;post-mvp-shapingroadmap&quot;&gt;Post-MVP: Shaping roadmap&lt;/h2&gt;
 
-&lt;p&gt;Following the initial few months of mayhem, we fell back into our regular cadence of research. The foundation was set, we had bandwidth, and were far enough ahead of our engineering roadmap to lift our heads and think about our vision. A few concepts we researched:&lt;/p&gt;
+&lt;p&gt;Following the initial mayhem, we fell back into our regular cadence of research and delivery. The foundation was set, we had bandwidth, and were far enough ahead of our engineering roadmap to lift our heads and think about our vision. A few concepts we researched:&lt;/p&gt;
 
 &lt;h5 id=&quot;voice-introductions&quot;&gt;Voice introductions&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/audioIntros.png&quot; alt=&quot;Voice intros&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Empowering job seekers to send the first message, while giving employers a more compelling cover letter replacement.
+&lt;img src=&quot;/assets/images/indeed/messaging/audioIntros.png&quot; alt=&quot;Voice intros&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;framework-for-enriched-messaging&quot;&gt;Framework for ‘enriched messaging’&lt;/h5&gt;
-&lt;p&gt;Hybrid graphical and text conversation interface. Shared with other teams that within Indeed that intend to create plugins for messaging.
+&lt;p&gt;Hybrid graphical and text conversation interface. Important guidelines for other teams creating messaging plugins.
 &lt;img src=&quot;/assets/images/indeed/messaging/modules.png&quot; alt=&quot;Enriched messaging&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;template-management--functional-placeholders&quot;&gt;Template management &amp;amp; functional placeholders&lt;/h5&gt;
@@ -151,9 +153,9 @@
 &lt;h5 id=&quot;timeline&quot;&gt;Timeline&lt;/h5&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/timeline.jpg&quot; alt=&quot;template management&quot; /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;bonus-company-wide-presentation&quot;&gt;Bonus: Company-wide presentation&lt;/h5&gt;
+&lt;h5 id=&quot;company-wide-presentation&quot;&gt;Company-wide presentation&lt;/h5&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/pres.png&quot; alt=&quot;template management&quot; /&gt;
-&lt;small&gt;Presenting to SLT and wider UX org (100+ designers) on the messaging vision and progress.&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;Sharing messaging vision and progress with SLT and wider UX org (100+ designers).&lt;/small&gt;&lt;/p&gt;
 
 &lt;div class=&quot;greyDiv&quot;&gt;
   &lt;div class=&quot;grid&quot;&gt;
@@ -168,6 +170,7 @@
 
   &lt;/div&gt;
 &lt;/div&gt;
+
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2017/10/09/indeed/</link>
@@ -359,7 +362,7 @@
 &lt;h5 id=&quot;experiment-5-touch-motion-️&quot;&gt;Experiment 5: Touch motion ❤️&lt;/h5&gt;
 
 &lt;video width=&quot;100%&quot; controls=&quot;&quot; muted=&quot;&quot; autoplay=&quot;&quot;&gt;
-    &lt;source src=&quot;/assets/images/pyrus/exp5_touchmotion.mov&quot; type=&quot;video/mov&quot; /&gt;
+    &lt;source src=&quot;/assets/images/pyrus/exp5_touchmotion.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 &lt;!-- Menus --&gt;
