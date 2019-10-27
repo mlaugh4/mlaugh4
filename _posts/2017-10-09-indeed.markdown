@@ -150,4 +150,6 @@ We eventually got our ducks in a row, traveled to Austin, Seattle, and San Franc
   </div>
 </div>
 
-<!-- ## Final product -->
+## Final (current)
+
+![template management](/assets/images/indeed/messaging/final.png)
