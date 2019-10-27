@@ -9,8 +9,7 @@ image: /assets/images/indeed/indeed_3.png
 
 My 2019 was spent in Tokyo leading the design of Indeed's new employer messaging experience. It's a big swing initiative to shift communication away from email and toward real-time chat as part of a wider effort to close the "black hole." v1 shipped over the summer and is trending positively across all KPIs. 🤞
 
-##### Agenda
-The following is a high-level overview of the genesis, early development, optimization, and vision for employer messaging. I do my best to supplement the story with relevant visuals and summarize my involvement at each step.
+The following is a high-level overview of the genesis, research, early development, optimization, and vision for employer messaging.
 
 ----------
 
@@ -151,3 +150,4 @@ We eventually got our ducks in a row, traveled to Austin, Seattle, and San Franc
   </div>
 </div>
 
+<!-- ## Final product -->
