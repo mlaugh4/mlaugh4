@@ -5,8 +5,8 @@
     <description>Designer and stuff</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Oct 2019 11:35:17 +0900</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 11:35:17 +0900</lastBuildDate>
+    <pubDate>Sun, 03 Nov 2019 20:36:36 +0900</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2019 20:36:36 +0900</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -170,7 +170,9 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;!-- ## Final product --&gt;
+&lt;h2 id=&quot;final-current&quot;&gt;Final (current)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/indeed/messaging/final.png&quot; alt=&quot;template management&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2017/10/09/indeed/</link>
