@@ -1,0 +1,27 @@
+---
+layout: post
+title: "TRI-AD"
+role: "Design challenge"
+date: 2017-10-06  
+description: "A design exploration into how a Toyota instrument cluster might respond to various low tire pressure scenarios"
+image: /assets/images/triad/triad_2.png
+---
+As part of a (successful 😀) interview process for Toyota Research Institute for Advanced Development (<a href="https://www.tri-ad.global/" target="_blank">TRI-AD</a>), I was asked to explore how a 3-screen Toyota instrument cluster might respond to a flat tire. 
+
+<b>Goal:</b> Stagger information across the screens without accosting drivers to ensure their eyes remain on the road.
+
+
+
+This was completed and shared with the VP of Design at TRI-AD.
+
+<a href="https://drive.google.com/file/d/14PLbD8rA843buz78zVOUJjYWI8CdtKKa/view?usp=sharing" target="_blank"><button>Interaction following blowout ↗</button></a>
+
+<a href="https://drive.google.com/file/d/1tn77EKgYIQK2P17aBIH3sPae6t_hHxA5/view?usp=sharing" target="_blank"><button>Interaction: Slow leak ↗</button></a>
+
+----------
+
+### Full presentation:
+
+<div style="position: relative;padding-bottom: 56.25%;height: 0;">
+  <iframe style=" position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.icloud.com/keynote/09B0kxa1sogSiNNean1OOfBWA?embed=true" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
+</div>

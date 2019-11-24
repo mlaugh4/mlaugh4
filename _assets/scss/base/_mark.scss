@@ -1,8 +1,16 @@
 //----------------------------------------------
 // My styles
 //---------------------------------------------- 
+#markdown a {
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.posts__link {
+  color:black;
+}
+
 .tempHome {
-  width: 47.5%;
   margin-top: 150px;
   margin-bottom: 150px;
 

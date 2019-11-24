@@ -5,8 +5,8 @@
     <description>Designer and stuff</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Nov 2019 20:36:36 +0900</pubDate>
-    <lastBuildDate>Sun, 03 Nov 2019 20:36:36 +0900</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2019 23:05:34 +0900</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 23:05:34 +0900</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -456,6 +456,33 @@ Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke liter
         <pubDate>Mon, 09 Oct 2017 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2017/10/09/msurvey/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/10/09/msurvey/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>TRI-AD</title>
+        <description>&lt;p&gt;As part of a (successful 😀) interview process for Toyota Research Institute for Advanced Development (&lt;a href=&quot;https://www.tri-ad.global/&quot; target=&quot;_blank&quot;&gt;TRI-AD&lt;/a&gt;), I was asked to explore how a 3-screen Toyota instrument cluster might respond to a flat tire.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Goal:&lt;/b&gt; Stagger information across the screens without accosting drivers to ensure their eyes remain on the road.&lt;/p&gt;
+
+&lt;p&gt;This was completed and shared with the VP of Design at TRI-AD.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/14PLbD8rA843buz78zVOUJjYWI8CdtKKa/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;Interaction following blowout ↗&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1tn77EKgYIQK2P17aBIH3sPae6t_hHxA5/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;Interaction: Slow leak ↗&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;full-presentation&quot;&gt;Full presentation:&lt;/h3&gt;
+
+&lt;div style=&quot;position: relative;padding-bottom: 56.25%;height: 0;&quot;&gt;
+  &lt;iframe style=&quot; position: absolute;top: 0;left: 0;width: 100%;height: 100%;&quot; src=&quot;https://www.icloud.com/keynote/09B0kxa1sogSiNNean1OOfBWA?embed=true&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;1&quot; referrer=&quot;no-referrer&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 06 Oct 2017 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2017/10/06/tri/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/06/tri/</guid>
         
         
       </item>
